@@ -1,0 +1,6 @@
+Jubair,Jubair,123 Main St,john@example.com
+Swetha,Swetha,456 Elm St,jane@example.com
+Manoj,Manoj,456 Elm St,jane@example.com
+Sruthi,Sruthi,456 Elm St,jane@example.com
+
+Rupika,Rupika,456 Elm St,jane@example.com
